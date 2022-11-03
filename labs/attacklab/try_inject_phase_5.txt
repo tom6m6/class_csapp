@@ -1,0 +1,15 @@
+movq %rsp,%rax
+48 89 e0
+setval_316
+0x0000555555556259
+
+add $0x37, %al
+add_xy
+0x0000555555556143
+
+mov %rax,%rdi
+getval_384
+0x00005555555560e5
+
+touch3
+0x0000555555556031

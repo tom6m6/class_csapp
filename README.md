@@ -1,2 +1,7 @@
 # class_csapp
-ECNU_Dase_2022_2023_Autumn_Computer_System
+## 简介
+计算机系统2022-2023秋季学期 from ECNU
+大二上 
+教材《深入理解计算机系统》（CSAPP）
+## 内容
+我对于这个仓库可能比较随意，会放一些课件，相关资料和笔记。

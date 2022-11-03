@@ -1,0 +1,15 @@
+popq %rax
+在<addval_276>中
+58 0x0000555555556110
+这个地址就在这里呢
+
+cookie 0x26eee760
+
+movq %rax,%rdi
+
+<setval_124>	48 89 c7 c3
+movq %rax,%rdi 		
+地址在哪？
+0x00005555555560fa
+
+返回到touch2	0x0000555555555f0c	
